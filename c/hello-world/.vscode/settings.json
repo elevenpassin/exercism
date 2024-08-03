@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "unity.h": "c",
+    "unity_internals.h": "c"
+  }
+}
